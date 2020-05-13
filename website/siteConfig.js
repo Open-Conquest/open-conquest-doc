@@ -21,25 +21,25 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
+  title: 'Open Conquest Docs', // Title for your website.
   tagline: 'A website for testing',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
+  url: 'https://docs.open-conquest.org', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'test-site',
-  organizationName: 'facebook',
+  projectName: 'docs',
+  organizationName: 'OpenConquest',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {doc: 'intro', label: 'Docs'},
+    {doc: 'api', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
@@ -54,8 +54,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#253b0b',
-    secondaryColor: '#192907',
+    primaryColor: '#313639',
+    secondaryColor: '#3d4447',
   },
 
   /* Custom fonts for website */
