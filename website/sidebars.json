@@ -1,6 +1,7 @@
 {
   "docs": {
     "Introduction": ["intro"],
-    "Overview": ["mechanics", "systems"]
+    "Overview": ["mechanics", "systems"],
+		"Entities": ["world", "map", "tile", "kingdom", "player", "city", "territory", "army", "units", "resources"]
   }
 }
