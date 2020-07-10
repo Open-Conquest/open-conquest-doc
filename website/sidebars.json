@@ -18,10 +18,6 @@
       "entities/rmy",
       "entities/units",
       "entities/resources"
-    ],
-		"API": [
-      "api/api",
-      "api/operations/registerUser"
     ]
   }
 }
