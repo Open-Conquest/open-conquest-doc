@@ -1,7 +1,27 @@
 {
   "docs": {
-    "Introduction": ["intro"],
-    "Overview": ["mechanics", "systems"],
-		"Entities": ["world", "map", "tile", "kingdom", "player", "city", "territory", "army", "units", "resources"]
+    "Introduction": [
+      "intro"
+    ],
+    "Overview": [
+      "mechanics",
+      "systems"
+    ],
+		"Entities": [
+      "entities/world",
+      "entities/map",
+      "entities/tile",
+      "entities/kingdom",
+      "entities/player",
+      "entities/city",
+      "entities/territory",
+      "entities/rmy",
+      "entities/units",
+      "entities/resources"
+    ],
+		"API": [
+      "api/api",
+      "api/operations/registerUser"
+    ]
   }
 }
